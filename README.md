@@ -1,6 +1,6 @@
 # Crear una persona.
-Con el siguiente http del metodo 'POST' 'http://localhost:8080/api/person'
-'''json
+Con el siguiente http del metodo 'POST' `http://localhost:8080/api/person`
+´´´json
 {
     "dni": "9821kdjh",
     "firstName": "mariana",
@@ -41,9 +41,6 @@ Con el siguiente http del metodo 'POST' 'http://localhost:8080/api/person'
     "cellNumber": 3123456789,
     "createAt": null
 }
-
-
-
-'''
+´´´
 
 
