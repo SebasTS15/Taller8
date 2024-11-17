@@ -1,5 +1,5 @@
 # Crear una persona.
-Con el siguiente http del metodo 'POST' `http://localhost:8080/api/person`
+Con el siguiente http del metodo `POST` `http://localhost:8080/api/person`
 ```json
 [{
     "dni": "9821kdjh",
